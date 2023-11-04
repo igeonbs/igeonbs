@@ -1,4 +1,7 @@
 <div align=center>
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/b72bc089-e459-496e-96a5-03310fbff7da"  width="10%" height="10%">
+</div>
+<div align=center>
       <h3>📚skills📚</h3>
 </div>
 <div align=center>
@@ -18,6 +21,4 @@
  <img src="https://img.shields.io/badge/KaliLinux-20BEFF?style=flat&logo=kalilinux&logoColor=white"/>
  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=white"/>
 </div>
- <div align=center>
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/b72bc089-e459-496e-96a5-03310fbff7da"  width="100%" height="100%">
-</div>
+
