@@ -1,3 +1,4 @@
 - 👀 I’m in kit university student.
 - 🌱 I’m currently learning c++, hacking.
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-huh-gifs&psig=AOvVaw2eSSqCvHkuqqOqyrA06l18&ust=1699159490690000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiFhsDEqYIDFQAAAAAdAAAAABAJ)
+![Alt Text](![image](https://github.com/igeonbs/igeonbs/assets/149852287/12440e3f-895d-4de6-82a5-000a9e945697)
+)
