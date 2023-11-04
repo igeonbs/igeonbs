@@ -24,8 +24,8 @@
  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=white"/>
 </div>
 <div align=center>
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="15%" height="200">
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="15%" height="200">
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="15%" height="200">
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="15%" height="200">
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="150" height="200">
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="150" height="200">
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="150" height="200">
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="150" height="200">
 </div>
