@@ -2,7 +2,7 @@
 - 👀 I’m in kit university student.
 </div>
 <div align=center>
-![huh-cat-huh-m4rtin](https://github.com/igeonbs/igeonbs/assets/149852287/b72bc089-e459-496e-96a5-03310fbff7da)
+     ![huh-cat-huh-m4rtin](https://github.com/igeonbs/igeonbs/assets/149852287/b72bc089-e459-496e-96a5-03310fbff7da)
 </div>
 <div align=center>
 ### skills
