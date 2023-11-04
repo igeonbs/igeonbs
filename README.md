@@ -1,9 +1,7 @@
 <div align=center>
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="15%" height="200">
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/6adb9d70-970f-450d-b574-2f0e4a59cec1" width="15%" height="200">
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/b72bc089-e459-496e-96a5-03310fbff7da"  width="15%" height="200">
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/6adb9d70-970f-450d-b574-2f0e4a59cec1" width="15%" height="200">
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="15%" height="200">
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/6adb9d70-970f-450d-b574-2f0e4a59cec1" width="20%" height="200">
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/b72bc089-e459-496e-96a5-03310fbff7da"  width="30%" height="200">
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/6adb9d70-970f-450d-b574-2f0e4a59cec1" width="20%" height="200">
 </div>
 <div align=center>
       <h3>📚skills📚</h3>
@@ -25,4 +23,6 @@
  <img src="https://img.shields.io/badge/KaliLinux-20BEFF?style=flat&logo=kalilinux&logoColor=white"/>
  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=white"/>
 </div>
+
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/1ba350e2-a9a8-47dd-baad-70b1befcd7dc" width="15%" height="200">
 
