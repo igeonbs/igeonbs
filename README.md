@@ -1,5 +1,5 @@
  <div align=center>
-<img src="https://github.com/igeonbs/igeonbs/assets/149852287/b72bc089-e459-496e-96a5-03310fbff7da">
+<img src="https://github.com/igeonbs/igeonbs/assets/149852287/b72bc089-e459-496e-96a5-03310fbff7da" width="100" height="30>
 </div>
  <div align=center>
       <h3>📚skills📚</h3>
