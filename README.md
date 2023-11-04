@@ -6,7 +6,7 @@
 </div>
 <div align=center>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/cplusplus-3776AB?style=flat&logo=cplusplus&logoColor=white"/>
+ <img src="https://img.shields.io/badge/cplusplus-3776AB?style=flat&logo=C++&logoColor=white"/>
 </div>
  <div align=center>
  tool
