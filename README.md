@@ -1,4 +1,4 @@
 - 👀 I’m in kit university student.
 - 🌱 I’m currently learning c++, hacking.
-![Alt Text](![image](https://github.com/igeonbs/igeonbs/assets/149852287/12440e3f-895d-4de6-82a5-000a9e945697)
+![Alt Text](https://tenor.com/view/huh-cat-roblox-huh-cat-huh-cat-saying-huh-gif-27625167)
 )
