@@ -14,6 +14,8 @@
 <div align=center>
  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
  <img src="https://img.shields.io/badge/BurpSuite-0099B0?style=flat&logo=Hotwire&logoColor=white"/>
+</div>
+<div align=center>
  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
  <img src="https://img.shields.io/badge/KaliLinux-20BEFF?style=flat&logo=kalilinux&logoColor=white"/>
  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=white"/>
